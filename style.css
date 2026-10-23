@@ -323,7 +323,7 @@ footer {
     text-align: right; }
     
     .artigo-visual1 { 
-    max-width: 900px;
+    max-width: 100%;
     margin: 0 0 28px; 
     overflow: hidden;
     border: 2px solid rgba(255,210,28,.85); 
