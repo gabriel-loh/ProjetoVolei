@@ -353,3 +353,13 @@ footer {
 .menu a { padding: 8px 0; }
 .card-video p { color: #e8f3ff; line-height: 1.7; margin-bottom: 18px; }
 .card-video .botao { font-size: 12px; padding: 12px 15px; }
+
+
+.rodape {
+  
+    color: #FFD700;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+
